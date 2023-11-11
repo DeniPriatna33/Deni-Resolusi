@@ -1,0 +1,4 @@
+DENI RESOLUSI
+- Membuat Template CI3
+- Membuat Login/Registrasi CI3 
+- Membuat CRUD_V1 CI3
