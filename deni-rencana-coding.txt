@@ -3,5 +3,7 @@ RENCANA CODING DENI
 - Codeigniter 3
   * Template CI3
   * Login & Registrasi CI3
+  * Crud v1 CI3
+  * Crud v1 CI3
 - Javascript
 - PHP
