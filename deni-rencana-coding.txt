@@ -1,5 +1,7 @@
 RENCANA CODING DENI
 
 - Codeigniter 3
+  * Template CI3
+  * Login & Registrasi CI3
 - Javascript
 - PHP
