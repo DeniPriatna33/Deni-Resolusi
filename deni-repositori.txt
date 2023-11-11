@@ -1,4 +1,7 @@
 DENI RESOLUSI
 - Membuat Template CI3
 - Membuat Login/Registrasi CI3 
-- Membuat CRUD_V1 CI3
+- Membuat Crud_V1 CI3
+- Membuat Crud_V2 CI3
+- Membuat Crud_ajax_v1 CI3
+- Membuat Crud_ajax_v2 CI3
