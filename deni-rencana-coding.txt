@@ -6,4 +6,7 @@ RENCANA CODING DENI
   * Crud v1 CI3
   * Crud v1 CI3
 - Javascript
+ - Latihan 1
+ - Latihan 2
+ - Latihan 3
 - PHP
